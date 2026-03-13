@@ -1,2 +1,3 @@
 # Java-Uebungs-Projekte
-Hier sind meine Übungsprojekte in der Programmiersprache Java.
+Hier zu finden sind meine Übungsprojekte in der Programmiersprache Java.
+Unterteil in Projektordner wobei in jedem Ordner eine Erklärung mit dabei ist!
