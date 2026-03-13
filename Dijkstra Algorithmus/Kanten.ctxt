@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kanten
+comment1.params=pZiel\ pGewicht
+comment1.target=Kanten(Knoten,\ int)
+comment2.params=
+comment2.target=Knoten\ getZiel()
+comment3.params=
+comment3.target=int\ getGewicht()
+numComments=4

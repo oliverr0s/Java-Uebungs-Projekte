@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Dijkstra
+comment1.params=start
+comment1.target=void\ kuerzesterWegSchrittweise(Knoten)
+comment2.params=start\ ziel
+comment2.target=void\ kuerzesterWegBisZiel(Knoten,\ Knoten)
+numComments=3

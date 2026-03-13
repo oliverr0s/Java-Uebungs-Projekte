@@ -1,1 +1,2 @@
 Den in Java umgesetzten Dijkstra Algorithmus habe ich infolge einer Facharbeit im Fach Informatik gemacht.
+Ausführbar ist der Code in der Anwendungsentwicklung BlueJ.
